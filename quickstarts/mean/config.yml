@@ -18,8 +18,8 @@ description: |
   - Informative dashboards (Top 10 transactions, connections, database indexes and more).
 
 summary: |
-  MEAN is named for the four major technologies that comprise the stack's layers: MongoDB, Express, Angular, and NodeJS.
-  Our MEAN integration with the Browser monitoring agent(Angular), Database monitoring agent(MongoDB) and Application Monitoring agent(Nodejs), lets you monitor your apps with our quickstart dashboards right out of the box.
+  MongoDB, Express, Angular, and NodeJS are the four major technologies that constitute MEAN.
+By integrating MEAN with Browser Monitoring agent (Angular), Database Monitoring agent (MongoDB) and Application Monitoring agent (Nodejs), you can get started monitoring your apps right away.
 
 icon: logo.png
 level: New Relic
